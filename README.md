@@ -49,7 +49,8 @@ This script is designed for the automatic generation of Rivalz NFTs every 12 hou
 9. **Check the logs:**
     If everything is set up correctly, you will see transaction logs.
 
-10. **To exit from the screen session, follow these steps**
+10. **To exit from the screen session, follow these steps:**
+
     Press Ctrl + A (hold Ctrl and press A).
     Then, press D (this will detach you from the screen session
 

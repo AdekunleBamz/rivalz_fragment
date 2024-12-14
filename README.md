@@ -33,7 +33,7 @@ This script is designed for the automatic generation of Rivalz NFTs every 12 hou
 6. **Fill in the .env file with the following parameters:**
     ```plaintext
     PRIVATE_KEY = private_key1 private_key2 private_key3
-    JSON_RPC_PROVIDER_URL = https://rivalz2.rpc.caldera.xyz/http
+    RPC = https://rivalz2.rpc.caldera.xyz/http
     TIMEOUT = 5000
     ```
     Enter the private keys of your wallets. If you only have one wallet, just enter its private key.

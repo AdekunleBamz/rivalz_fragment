@@ -62,6 +62,10 @@ The script will run every 12 hours and automatically claim NFTs. It is important
 - Make sure your wallet has enough SEPOLIA RIVALZ2 tokens to complete the transactions.
 - If you encounter issues, make sure all dependencies are properly installed and that the .env file is configured correctly.
 
+## Disclaimer
+
+Use this script at your own risk. While the script is designed to automate the process of generating Rivalz NFTs, we do not take responsibility for any issues that may arise, including but not limited to data loss, security risks, or any other unforeseen consequences. Ensure that you understand the script and its operation before proceeding.
+
 ## Stay Updated:
 
 For the latest updates and installation instructions, follow us on:

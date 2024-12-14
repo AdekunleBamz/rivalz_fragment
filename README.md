@@ -56,3 +56,9 @@ The script will run every 12 hours and automatically claim NFTs. It is important
 ### Notes
 - Make sure your wallet has enough SEPOLIA RIVALZ2 tokens to complete the transactions.
 - If you encounter issues, make sure all dependencies are properly installed and that the .env file is configured correctly.
+
+## Stay Updated:
+
+For the latest updates and installation instructions, follow us on:
+- [Telegram](https://t.me/dknodes)
+- [Twitter](https://twitter.com/dknodes)

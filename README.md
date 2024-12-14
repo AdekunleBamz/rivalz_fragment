@@ -49,6 +49,10 @@ This script is designed for the automatic generation of Rivalz NFTs every 12 hou
 9. **Check the logs:**
     If everything is set up correctly, you will see transaction logs.
 
+10. **To exit from the screen session, follow these steps**
+    Press Ctrl + A (hold Ctrl and press A).
+    Then, press D (this will detach you from the screen session
+
 ## How the Script Works
 
 The script will run every 12 hours and automatically claim NFTs. It is important that your wallets have enough SEPOLIA RIVALZ2 tokens. You can get test tokens daily from the faucet for each wallet.

@@ -16,7 +16,7 @@ This script is designed for the automatic generation of Rivalz NFTs every 12 hou
 
 3. **Run screen (if it's not installed, install it):**
     ```bash
-    screen -r rivalz_fragment
+    screen -S rivalz_fragment
     ```
 
 4. **Install dependencies:**

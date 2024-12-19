@@ -6,7 +6,7 @@ This script is designed for the automatic generation of Rivalz NFTs every 12 hou
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/dknodes/rivalz_fragment.git
+    git clone https://github.com/AdekunleBamz/rivalz_fragment.git
     ```
 
 2. **Navigate to the project folder:**
